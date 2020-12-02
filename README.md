@@ -5,12 +5,13 @@
   * [Overview](#overview)
   * [Installation](#installation)
   * [Deployement on Heroku](#deployement-on-heroku)
+  * [Source of the dataset](#source-of-the-dataset)
 
 ## DEMO:
 Link: https://banknoteauthentic.herokuapp.com/
 
 ## OVERVIEW:
-This project involves predicting the authenticity of a bank note based on features such as variance,skewness,cutosis and entropy.
+This project involves predicting the authenticity of a bank note based on features such as variance,skewness,curtosis and entropy.
 
 ## INSTALLATION:
 The Code is written in Python 3.6.10. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
